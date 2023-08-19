@@ -1,5 +1,0 @@
-
-Name: Siddhant Bobde
-Skills: HTML, CSS, JS, Next.js,React,Redux
-Email: siddhantbobade1996@gmail.com
-
